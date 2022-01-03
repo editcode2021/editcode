@@ -3590,3 +3590,36 @@ header a {
 #article_content a{
     line-height: 28px;
 }
+.new_article1 {
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    font-weight: bold;
+}
+.side-article-list1 li {
+	text-align: left;
+	font-size: 14px;
+    padding: 0px 20px 0px 46px;
+    margin: 10px 0 12px 0;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+    border-bottom: none;
+}
+.side-article-list1 li a {
+    color: #363636;
+    line-height: 22px;
+    margin-bottom: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    max-height: 44px;
+    min-height: 22px;
+    display: block;
+    font-family: "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+}
+.side-article-list1 li span {
+    color: #a09f9f;
+    font-weight: 300;
+}
