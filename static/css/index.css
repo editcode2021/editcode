@@ -3770,3 +3770,43 @@ p.a-list-desc {
 .look_more a { color: #666666; display: block}
 .look_more:hover { background: #F8F8F8}
 .look_more:hover a { color: #78B1F6}
+.elecicon_bottom{ margin-top:40px;}
+.elecicon_bottom span{ font-size:12px; color:#666;}
+.elecicon_bottom span.elecsc{ display:inline-block;}
+.share_bottom { margin-top:3px;}
+.share_bottom span{ font-size:12px; color:#666;}
+.share_bottom span.elecsc{ display:inline-block;}
+#favoritenumber{ display:inline-block;}
+.tshare { display:none;}
+#p_btn .img-btn {
+	width: 34px !important;
+	height: 34px !important;
+}
+.qrcode img{
+	width: 100px !important;
+	height: 100px !important;
+	float:none !important;
+}
+.social-share-icon{
+	padding-right:0px !important;
+	margin-right:0px !important;
+}
+.wechat-qrcode {
+  z-index:999 !important;
+}
+.social-share {
+  padding-left: 10px!important;
+}
+#article_content h4{
+	margin-top: 5px !important;
+	margin-bottom: 5px!important;
+	font-weight: 600!important;
+	line-height: 28px!important;
+	text-align: left!important;
+}
+.more_box, .get-mod-more { margin-bottom: 40px}
+.footer { margin-top: 0}
+.news-flash-box {
+    height: 518px;
+}
+.news-flash-box .side-article-list {}
