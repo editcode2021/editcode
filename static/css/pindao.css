@@ -345,13 +345,13 @@ a:hover { text-decoration: none}
 .vw .hm { text-align: left; padding: 0 0 15px 0 !important; border-bottom: 1px dotted #D8D8D8 !important}
 
 
-.vw .ph { line-height: 36px; padding: 0 0 15px 0; font-size: 24px; color: #333333; font-weight: bold; text-align: left}
+.vw .ph { line-height: 36px; padding: 0 0 5px 0; font-size: 24px; color: #333333; font-weight: bold; text-align: left}
 
 
 .h .xg1, .h .xg1 a { color: #888888 !important}
 
 
-.vw .h { position: relative; padding: 0 0 25px 0 !important; margin: 0; border-bottom: 0 !important; border-radius: 0}
+.vw .h { position: relative; padding: 0 0 5px 0 !important; margin: 0; border-bottom: 0 !important; border-radius: 0}
 
 
 .vw .h p { width: 100%; float: left; height: 30px; line-height: 30px}
