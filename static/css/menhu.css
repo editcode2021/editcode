@@ -189,8 +189,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .ui_2_ul_li {
-    height: 152px;
-    padding: 20px 0;
+    height: 120px;
+    padding: 2px 0;
     margin: 0;
     border-bottom: 1px solid #EEEEEE;
     background: #FFFFFF
@@ -217,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     float: left;
     width: 450px;
-    height: 152px
+    height: 120px
 }
 
 .tag_down {
